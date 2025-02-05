@@ -1,5 +1,5 @@
-# RNA-Seq Analysis of [High Salt on Salt-sensitive Dahl Rat]
-This repository contains RNA-Seq data analysis for [brief description of the study]. It includes preprocessing, quality control, alignment, differential expression analysis, and visualization.
+# RNA-Seq Analysis of High Salt on Salt-sensitive Dahl Rat
+This repository contains RNA-Seq data analysis for hypertension in SS Dahl rat. It includes differential expression analysis and visualization.
 
 ## 🚀 Workflow
 1. **Differential Expression**: DESeq2
